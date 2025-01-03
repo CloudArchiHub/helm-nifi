@@ -316,6 +316,8 @@ Initially inspired from https://github.com/YolandaMDavis/apache-nifi.
 
 TLS work/inspiration from https://github.com/sushilkm/nifi-chart.git.
 
+Cetic https://github.com/cetic/helm-nifi.
+
 ## Contributing
 
 Feel free to contribute by making a [pull request](https://github.com/cetic/helm-nifi/pull/new/master).
